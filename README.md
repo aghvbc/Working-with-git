@@ -6,3 +6,4 @@ tut zhe bil drugoy commit
 Сделал коммит сюда ещё (5)
 -[Как вернуться к прошлой версии](./reset_help.md)
 -[Ветвление](./branch_help.md)
+[Слияние двух веток](./merge_help.md)
